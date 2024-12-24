@@ -1,0 +1,23 @@
+print(True and True)
+print(False and True)
+print(False and False)
+print(True or False)
+print(False or False)
+print(True or True)
+print(False or True)
+print(True or False)
+
+print(5 > 1)
+print(5 >= 2)
+print(5 <= 5)
+print(5 == 6)
+print(5 != 7)
+print(5 < 8)
+print(5 <= 8)
+print(5 > 8)
+print(5 >= 55)
+
+print(int(True))
+print(int(False))
+
+print(int(input()) > 5)
