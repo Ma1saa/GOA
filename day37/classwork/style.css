@@ -1,0 +1,21 @@
+#main{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background: red;
+}
+#item1{
+    background: purple;
+    width: 100px;
+    height: 100px;
+}
+#item2{
+    background: #ffd1ff;
+    width: 100px;
+    height: 100px;
+}
+#item3{
+    background: #1877F2;
+    width: 100px;
+    height: 100px;
+}
