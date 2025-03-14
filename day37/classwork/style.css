@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #main{
     display: flex;
     width: 500px;
@@ -19,3 +20,26 @@
     width: 100px;
     height: 100px;
 }
+=======
+#main{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background: red;
+}
+#item1{
+    background: purple;
+    width: 100px;
+    height: 100px;
+}
+#item2{
+    background: #ffd1ff;
+    width: 100px;
+    height: 100px;
+}
+#item3{
+    background: #1877F2;
+    width: 100px;
+    height: 100px;
+}
+>>>>>>> 763f66262b68bc7bbf5fc36340fbeb0525df587e
