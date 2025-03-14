@@ -1,0 +1,28 @@
+.div{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: #00d1ff;
+}
+.div1{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: #764ba2;
+    left: 200px;
+    top: 200px;
+}
+.image{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 420px;
+    left: -100px;
+}

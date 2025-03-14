@@ -1,0 +1,24 @@
+body{
+    background-color: #1877F2;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+h1{
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    background-color: #00d1ff;
+}
+p{
+    text-align: center;
+}

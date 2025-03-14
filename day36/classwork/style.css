@@ -1,0 +1,17 @@
+ol{
+    list-style-position: inside;
+    list-style-type: decimal-leading-zero;
+}
+li:hover{
+    color: blue;
+}
+input{
+    border: solid 1px #00d1ff;
+    border-radius: 5px;
+}
+input[type=text]:active{
+    color: red;
+}
+input[type=submit]:active{
+    color: darkgrey;
+}

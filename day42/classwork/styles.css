@@ -1,0 +1,20 @@
+div{
+    margin:auto;
+    background-color: blueviolet;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    box-shadow: #333333 7px 7px 20px;
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 150px 175px;
+}
+div:hover{
+    box-shadow: #333333 7px 7px 15px;
+}
+/* ფონის სურათი იცვლება ისე, რომ მთლიანად დაფაროს ელემენტი.
+ფონის გამოსახულების ზომა იცვლება ისე, რომ მოთავსდეს ელემენტის შიგნით დაჭრის გარეშე.
+ფონის სურათი მეორდება როგორც ჰორიზონტალურად, ისე ვერტიკალურად ელემენტის შესავსებად.
+ფონის სურათი არ მეორდება; ჩნდება მხოლოდ ერთხელ. */
+
