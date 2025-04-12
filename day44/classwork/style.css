@@ -1,0 +1,56 @@
+.w1{
+    background: #764ba2;
+    width: 200px;
+    height: 200px;
+}
+
+.w1:hover{
+    transform: translate(-150px, -150px);
+}
+
+.w2{
+    background: #764ba2;
+    width: 200px;
+    height: 200px;
+}
+
+.w2:hover{
+    transform: translate(150px, 150px);
+}
+
+.w3{
+    background: #ff9800;
+    width: 200px;
+    height: 200px;
+}
+
+.w3:hover{
+    transform: scale(1.000000001);
+}
+
+.w4{
+    background: #ff9800;
+    width: 200px;
+    height: 200px;
+}
+
+.w4:hover{
+    transform: scale(-1.000000001);
+}
+
+.w5{
+    background: #ff9800;
+    width: 200px;
+    height: 200px;
+}
+.w5:hover{
+    transform: rotate(-80deg);
+}
+.w6{
+    background: #ff9800;
+    width: 200px;
+    height: 200px;
+}
+.w6:hover{
+    transform: rotate(80deg);
+}

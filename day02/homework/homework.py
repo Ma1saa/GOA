@@ -1,1 +1,1 @@
-print("no homework")
+print("no homework.py")

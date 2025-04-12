@@ -1,0 +1,21 @@
+.d1{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 10px;
+    animation-name: random;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes random {
+    30%{
+        transform: scale(0.5);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

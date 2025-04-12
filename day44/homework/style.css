@@ -1,0 +1,35 @@
+div{
+    width: 150px;
+    height: 200px;
+    background-color: skyblue;
+    margin: 20px;
+    position: relative;
+    display: inline-block;
+    transition: transform 0.5s, left 0.5s, top 0.5s;
+}
+
+.box1:active{
+    left: -50px;
+}
+
+.box2:active{
+    transform: scale(1.5);
+}
+
+.box2:active {
+    transform: scale(2);
+}
+
+.box3:active {
+    left: 50px;
+    top: 50px;
+}
+
+.box4:active {
+    transform: rotate(-45deg);
+}
+
+.box5:active {
+    left: 50px;
+    transform: translateX(50px) rotate(25deg) scale(4);
+}

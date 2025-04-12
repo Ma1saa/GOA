@@ -1,0 +1,22 @@
+div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #764ba2;
+    animation: random 5s infinite;
+}
+
+@keyframes random {
+    25%{
+        transform: scale(1.15) translate(500px, 100px); background: #1abc9c;
+    }
+    50%{
+        transform: scale(1.35) translate(0px, 150px); background: #1877F2;
+    }
+    75%{
+        transform: scale(1.15) translate(500px, 240px); background: #4CAF50;
+    }
+    100%{
+        transform: scale(1) translate(0px, 340px); background: #fe98ff;
+    }
+}
