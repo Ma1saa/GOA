@@ -1,0 +1,31 @@
+body{
+    background: #1abc9c;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    border-radius: 10%;
+}
+
+button{
+    background: #1877F2;
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    background: #ff9800;
+    animation: random 1s infinite;
+}
+
+@keyframes random{
+    10%{
+        transform: scale(0.5);
+    }
+    100%{
+        transform: rotate(300deg);
+    }
+}
