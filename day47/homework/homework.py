@@ -41,8 +41,10 @@ def string_reverse(n):
 
 
 def long_word_founder(n):
-    p = n.split()
-    l = len(n)
-
-
+    n = n.split()
+    max_len = ""
+    for i in n:
+        if len(i) > len(max_len):
+            max_len = i
+    return max_len
 
