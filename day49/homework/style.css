@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    background: #2c3e50;
+    border-radius: 15%;
+}
+
+div{
+    transform: translate(0px, 500px);
+}
+
+button{
+    margin-top: 15px;
+    background: #1877F2;
+    box-shadow:rebeccapurple 0px 0px 12px ;
+    transition: 1s;
+}
+
+button:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 1px 10px #1877F2;
+}
