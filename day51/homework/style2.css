@@ -1,0 +1,38 @@
+*{
+    background: darkgreen;
+}
+
+#div{
+    display: flex;
+    justify-content: right;
+
+}
+
+button{
+    transform: translate(-10px, -60px);
+    border-radius: 35%;
+    padding: 20px;
+    background: green;
+}
+
+#but{
+    transform: translate(-40px, -60px);
+    background: greenyellow ;
+}
+
+#div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column ;
+    transform: translateY(300px);
+    font-size: 40px;
+    font-family: "Arial Narrow";
+}
+
+#img{
+    width: 800px;
+    height: 800px;
+    transform: translate(600px, -600px);
+}
