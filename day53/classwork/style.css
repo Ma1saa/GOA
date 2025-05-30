@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ef0b3482af47208a82657981309c43eb1c15048f
 img{
     width: 50px;
     height: 50px;
@@ -15,4 +19,26 @@ p{
 
 h1{
     transform: translate(-15px, -5px);
+<<<<<<< HEAD
+=======
+=======
+img{
+    width: 50px;
+    height: 50px;
+}
+
+div{
+    display: flex;
+    background-color: #131516;
+    width: 450px;
+    height: 60px;
+}
+p{
+    transform: translate(0, -20px);
+}
+
+h1{
+    transform: translate(-15px, -5px);
+>>>>>>> 1eeb71ee1b8b1111caeb3112674d41aee1115043
+>>>>>>> ef0b3482af47208a82657981309c43eb1c15048f
 }
