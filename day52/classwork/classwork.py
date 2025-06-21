@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #1 link: https://www.codewars.com/kata/576b93db1129fcf2200001e6
 
 def sum_array(array):
@@ -71,5 +71,3 @@ def DNA_strand(dna):
 
 def century(year):
     return (year - 1) // 100 + 1
-=======
->>>>>>> c85889eb0fed869825900116e1b439f0c83305d9
