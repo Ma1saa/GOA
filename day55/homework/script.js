@@ -11,5 +11,6 @@ function math(){
     console.log(425148/432)
 }
 
-console.log(math())
+
+math()
 
