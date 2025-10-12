@@ -1,0 +1,13 @@
+#hoverDiv, #hoverDiv2 {
+      width: 100px;
+      height: 100px;
+      background-color: lightgray;
+      margin: 10px;
+    }
+#followDiv {
+      width: 30px;
+      height: 30px;
+      background-color: red;
+      position: absolute;
+      pointer-events: none;
+}
