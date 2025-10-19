@@ -1,0 +1,22 @@
+*{
+    background-color: #0f172a;
+    color: #d1d5db;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#div1{
+    border: 1px solid #d1d5db;
+    width: 75px;
+    height: 75px;
+    cursor: pointer;
+}
+#h1{
+    cursor: pointer;
+}
+

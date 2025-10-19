@@ -1,0 +1,22 @@
+*{
+    background-color: #0f172a;
+    color: #d1d5db;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#div1{
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
+    border: 1px solid #d1d5db;
+}
+#itemList{
+    border: 1px solid #d1d5db;
+    width: 100px;
+}
+
