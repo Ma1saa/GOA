@@ -1,0 +1,18 @@
+*{
+    background-color: #0f172a;
+    color: #d1d5db;
+}
+
+div{
+    margin: 10px;
+    border: 1px solid #d1d5db;
+    width: 100px;
+    height: 150px;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #1e293b;
+}
+p{
+    display: inline-block;
+}
