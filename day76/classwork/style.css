@@ -1,0 +1,17 @@
+*{
+    background-color: #0f172a;
+    color: #d1d5db;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+div{
+    background: #00d1ff;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+}
