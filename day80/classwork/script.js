@@ -18,3 +18,5 @@ ${apiKey}&query=${encodeURIComponent(movie)}`)
         img.src =  `https://image.tmdb.org/t/p/w400/${data.results[0].poster_path}`
         
     })
+
+

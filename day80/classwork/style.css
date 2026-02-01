@@ -26,4 +26,5 @@ div{
     font-size: 20px;
     cursor: pointer;
     width: 500px;
+    box-shadow: 0 2px 20px #d1d5db;
 }
